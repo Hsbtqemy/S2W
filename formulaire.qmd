@@ -1,0 +1,56 @@
+---
+title: "Formulaire"
+---
+
+::: {.page-shell}
+::: {.page-header}
+<div class="section-kicker">Participer</div>
+
+# Contribuer à l'étude Speak2Win
+
+Vous souhaitez nous aider en participant à une collecte de données, en répondant à une enquête ou en relayant le projet. Les formulaires Speak2Win s'ouvrent dans un nouvel onglet afin d'éviter les problèmes d'affichage sur mobile comme sur ordinateur.
+:::
+
+::: {#participer-formulaire .wide-panel}
+<div class="section-heading">Questionnaire de participation</div>
+
+Le questionnaire de participation est accessible via LimeSurvey. Il s'ouvre directement dans un nouvel onglet pour garantir une expérience stable sur mobile comme sur ordinateur.
+
+::: {.form-launch-panel}
+::: {.form-launch-card}
+<p class="form-launch-lead">Accédez au questionnaire de participation Speak2Win.</p>
+<p class="form-launch-note">Le lien ouvre directement l'enquête LimeSurvey dans un nouvel onglet.</p>
+
+::: {.hero-actions}
+[Je participe](https://survey.appli.univ-poitiers.fr/911129?lang=fr){.button-link .button-primary target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
+
+Si besoin, vous pouvez aussi [ouvrir directement le questionnaire LimeSurvey](https://survey.appli.univ-poitiers.fr/911129?lang=fr){target="_blank" rel="noopener noreferrer"}.
+
+::: {.hero-actions}
+[Voir le projet](about.html){.button-link .button-primary}
+[Consulter le poster PDF](Poster%20scientifique.pdf){.button-link .button-soft}
+:::
+:::
+
+::: {#contacter-equipe .wide-panel}
+<div class="section-heading">Laisser mon contact</div>
+
+Si vous souhaitez laisser vos corrdonnées pour qu'on puisse vous recontacter, vous pouvez utiliser le formulaire de contact ci-dessous.
+
+::: {.form-launch-panel}
+::: {.form-launch-card}
+<p class="form-launch-lead">Accédez au formulaire de contact Speak2Win.</p>
+<p class="form-launch-note">Le lien ouvre directement l'enquête LimeSurvey de contact dans un nouvel onglet.</p>
+
+::: {.hero-actions}
+[Laisser mon contact](https://survey.appli.univ-poitiers.fr/887142?lang=fr){.button-link .button-primary target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::
+
+Vous pouvez aussi [ouvrir directement le formulaire de contact LimeSurvey](https://survey.appli.univ-poitiers.fr/887142?lang=fr){target="_blank" rel="noopener noreferrer"}.
+:::
+:::

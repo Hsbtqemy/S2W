@@ -1,0 +1,70 @@
+---
+title: "Accueil"
+---
+
+::: {.hero-panel}
+<div class="section-kicker">Projet scientifique | Sciences du langage</div>
+
+<div class="hero-copy">
+  <h1 class="hero-title">SPEAK2WIN</h1>
+  <p class="hero-subtitle">Les discours de l'esport : de la documentation à la pédagogie</p>
+  <p class="hero-description">Projet scientifique sur les discours de l'esport, entre documentation, formation et transfert pédagogique.</p>
+  <div class="hero-meta">Sylvie Hanote, Université de Poitiers, FoReLLIS<br>Sophie Kraeber, Université de Caen Normandie, CRISCO</div>
+</div>
+
+<div class="hero-actions">
+  <a class="button-link button-primary" href="about.html">Explorer le projet</a>
+  <a class="button-link button-ghost" href="formulaire.html#participer-formulaire">Participer à l'étude</a>
+  <a class="button-link button-soft" href="Poster%20scientifique.pdf">Voir le poster PDF</a>
+</div>
+:::
+
+::: {.hub-grid}
+::: {.hub-card}
+<div class="hub-card-kicker">Comprendre</div>
+
+### Le projet
+
+Découvrez la présentation détaillée du programme, ses objectifs, sa méthode, ses partenaires et ses applications pédagogiques.
+
+[Découvrir le projet](about.html){.button-link .button-primary}
+:::
+
+::: {.hub-card}
+<div class="hub-card-kicker">Consulter</div>
+
+### Le poster scientifique
+
+Téléchargez le poster source pour garder une vue synthétique du projet et de son cadrage scientifique.
+
+[Télécharger le poster](Poster scientifique.pdf){.button-link .button-primary}
+:::
+
+::: {.hub-card}
+<div class="hub-card-kicker">Participer</div>
+
+### Répondre au questionnaire
+
+Répondez au questionnaire de participation pour contribuer à l'étude et partager vos pratiques.
+
+[Répondre au questionnaire](formulaire.html#participer-formulaire){.button-link .button-primary}
+:::
+
+::: {.hub-card}
+<div class="hub-card-kicker">Contacter</div>
+
+### Laisser mon contact
+
+Laissez vos coordonnées pour qu'on puisse vous recontacter si le projet vous intéresse.
+
+[Laisser mon contact](formulaire.html#contacter-equipe){.button-link .button-primary}
+:::
+:::
+
+::: {.wide-panel}
+<div class="section-heading">En bref</div>
+
+Speak2Win étudie les discours de l'esport afin de produire à la fois des connaissances en sciences du langage et des ressources de formation réutilisables dans des contextes pédagogiques variés.
+
+Cette page d'accueil sert d'accès rapide aux quatre entrées principales du site : le projet, le questionnaire de participation, le formulaire de contact et le poster scientifique.
+:::

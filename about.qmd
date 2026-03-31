@@ -1,0 +1,183 @@
+---
+title: "Projet"
+---
+
+::: {.page-shell}
+::: {.page-header}
+<div class="section-kicker">Le projet</div>
+
+# Speak2Win en détail
+
+Speak2Win documente les interactions de jeu et de commentaire afin de produire à la fois des connaissances scientifiques et des supports pédagogiques. Cette page regroupe la présentation complète du projet.
+:::
+
+::: {#projet .feature-grid}
+::: {.poster-card}
+<div class="hand-label">Contexte</div>
+
+<p class="poster-lead">L'esport occupe une place majeure dans nos sociétés, mais il a été peu étudié par les sciences du langage.</p>
+
+::: {.poster-block}
+<div class="poster-block-title">Pourquoi étudier ces discours ?</div>
+
+- Une communication de qualité au sein des équipes joue un rôle déterminant pour la victoire.
+- La professionnalisation du commentaire des rencontres constitue un enjeu pour la légitimation de l'esport comme sport.
+- Les joueur.ses et commentateur.ices amateur.ices sont demandeur.ses de supports de formation.
+:::
+
+<p class="poster-note">La Nouvelle-Aquitaine constitue un terrain privilégié pour le développement, la pratique et l'analyse de l'esport. Le projet a été déposé en janvier 2026 en vue d'un financement régional.</p>
+:::
+
+::: {.poster-card}
+<div class="hand-label">Objectifs</div>
+
+<p class="poster-lead">Le projet articule recherche, formation et transfert pédagogique.</p>
+
+::: {.poster-block}
+<div class="poster-block-title">Trois objectifs structurants</div>
+
+- Documenter les discours des joueur.ses et des commentateur.ices professionnel.les français.es dans différents esports pour développer un modèle.
+- Construire des supports de formation à partir de ce modèle pour les joueur.ses et commentateur.ices amateur.ices.
+- Développer des ressources pédagogiques proposées dans des formations non esportives.
+:::
+
+<p class="poster-note">Les compétences visées incluent l'organisation d'équipe, la transmission d'information et la formulation de directives en français ou en LV2.</p>
+:::
+
+::: {.poster-card}
+<div class="hand-label">Corpus</div>
+
+<p class="poster-lead">La méthode combine constitution de corpus, annotation multimodale et analyse linguistique.</p>
+
+::: {.poster-block}
+<div class="poster-block-title">Sources et traitements</div>
+
+- Vidéos YouTube et streams Twitch.
+- Enregistrements audio, vidéo et images du jeu effectués par nos soins.
+- Transcription, alignement audio, annotation des images du jeu et annotation de phénomènes linguistiques.
+- Analyses qualitatives et quantitatives.
+:::
+
+<p class="poster-note">Principaux esports ciblés : <span class="poster-tags">League of Legends, Valorant, Fortnite</span>.</p>
+
+::: {.esport-icon-grid}
+::: {.esport-icon-card}
+![](icons/LoL.png){.esport-icon-image alt="Logo League of Legends"}
+<div class="esport-icon-label">League of Legends</div>
+:::
+
+::: {.esport-icon-card}
+![](icons/Valorant2.png){.esport-icon-image .esport-icon-image-valorant alt="Logo Valorant"}
+<div class="esport-icon-label">Valorant</div>
+:::
+
+::: {.esport-icon-card}
+![](icons/Fortnite.png){.esport-icon-image alt="Logo Fortnite"}
+<div class="esport-icon-label">Fortnite</div>
+:::
+:::
+:::
+:::
+
+::: {.spotlight-panel}
+<div class="section-heading">Pourquoi ce projet compte</div>
+
+::: {.spotlight-grid}
+::: {.spotlight-card}
+### Pour la recherche
+
+Speak2Win documente un terrain encore peu couvert par les sciences du langage et produit un modèle d'analyse transférable à plusieurs jeux et formats de diffusion.
+:::
+
+::: {.spotlight-card}
+### Pour les pratiques amateures
+
+Le projet vise des ressources directement utiles aux joueur.ses et commentateur.ices qui souhaitent structurer leurs échanges, commenter plus clairement et progresser collectivement.
+:::
+
+::: {.spotlight-card}
+### Pour la pédagogie
+
+Les résultats pourront être réemployés dans des formations en droit, gestion ou langues pour travailler la coordination, la circulation de l'information et la formulation de consignes.
+:::
+:::
+:::
+
+::: {.partners-panel}
+<div class="section-heading">Partenaires et terrain</div>
+
+<p class="panel-intro">Le projet s'appuie sur un réseau universitaire et associatif large, avec un ancrage fort en Nouvelle-Aquitaine et un lien direct avec la Gamers Assembly 2026.</p>
+
+<div class="pill-grid">
+  <div class="pill-card"><strong>Universités</strong><span>Poitiers, Bordeaux Montaigne, Caen Normandie, Paris Cité, Orléans, Lyon 2 et Lyon 3.</span></div>
+  <div class="pill-card"><strong>Grand Poitiers Communauté Urbaine</strong><span>Soutient et structure le développement de l'esport à l'échelle locale.</span></div>
+  <div class="pill-card"><strong>Gamers Assembly</strong><span>Événement majeur de l'esport français, terrain privilégié pour la vulgarisation et la collecte.</span></div>
+  <div class="pill-card"><strong>orKs Grand Poitiers</strong><span>Association multi-gaming engagée dans l'encadrement amateur et l'éducation par l'esport.</span></div>
+  <div class="pill-card"><strong>Silver Geek</strong><span>Collectif mobilisant l'esport pour le bien-être, le lien social et l'inclusion numérique des seniors.</span></div>
+  <div class="pill-card"><strong>BnF</strong><span>Institution qui collecte et valorise les données culturelles liées aux pratiques numériques, dont l'esport.</span></div>
+</div>
+:::
+
+::: {.poster-showcase}
+::: {.poster-copy}
+<div class="poster-mini-title">Aperçu du poster</div>
+
+Retrouvez le poster expliquant notre démarche. Le document est disponible au téléchargement.
+:::
+
+![](poster-apercu.jpg){.poster-image alt="Aperçu du poster scientifique Speak2Win"}
+:::
+
+::: {.hero-actions}
+[Télécharger le poster PDF](Poster scientifique.pdf){.button-link .button-primary}
+[Accéder au formulaire](formulaire.html#participer-formulaire){.button-link .button-soft}
+:::
+
+::: {.wide-panel}
+<div class="section-heading">Méthode</div>
+
+::: {.poster-block}
+<div class="poster-block-title">Comment nous traitons notre corpus ?</div>
+
+- Alignement des transcriptions à l’audio 
+(*à quel moment c’est dit ?*)
+- Annotation des images du jeu 
+(*en lien avec quels événements dans le jeu ?*)
+- Annotation de différents phénomènes linguistiques 
+(*comment c’est dit ?*)
+- Analyses qualitatives 
+(*comment un phénomène donné fonctionne ?*)
+- Analyses quantitatives 
+(*ce phénomène est-il fréquent ?*)
+:::
+:::
+
+::: {.participate-panel}
+<div class="section-heading">Vous êtes joueur.se et vous souhaitez nous aider ?</div>
+
+::: {.participate-grid}
+::: {.action-card}
+### Je participe à une collecte de données
+
+Contribuez à la constitution du corpus via des sessions enregistrées et des extraits de jeu commentés.
+:::
+
+::: {.action-card}
+### Je réponds à une enquête
+
+Partagez vos habitudes de jeu, vos usages langagiers et vos attentes en matière de formation.
+:::
+
+::: {.action-card}
+### Je partage cette étude
+
+Diffusez le projet auprès de vos équipes, associations, communautés et structures partenaires.
+:::
+:::
+
+<div class="hero-actions">
+  <a class="button-link button-primary" href="formulaire.html#participer-formulaire">Accéder à la page formulaire</a>
+  <a class="button-link button-soft" href="Poster%20scientifique.pdf">Consulter le poster PDF</a>
+</div>
+:::
+:::

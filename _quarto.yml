@@ -1,0 +1,32 @@
+project:
+  type: website
+  resources:
+    - "Poster scientifique.pdf"
+    - poster-apercu.jpg
+
+lang: fr
+
+website:
+  title: "Speak2Win"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: about.qmd
+        text: Projet
+      - href: formulaire.qmd
+        text: Formulaire
+    right:
+      - href: "Poster scientifique.pdf"
+        text: Poster PDF
+  page-footer:
+    left: "Speak2Win | Discours de l'esport, documentation et pédagogie"
+    right: "Gamers Assembly 2026"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-after-body: _includes/sticky-cta.html
+    toc: false
+    smooth-scroll: true
