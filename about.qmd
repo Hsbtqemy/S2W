@@ -6,9 +6,9 @@ title: "Projet"
 ::: {.page-header}
 <div class="section-kicker">Le projet</div>
 
-# Speak2Win en détail
+# SPEAK2WIN en détail
 
-Speak2Win documente les interactions de jeu et de commentaire afin de produire à la fois des connaissances scientifiques et des supports pédagogiques. Cette page regroupe la présentation complète du projet.
+SPEAK2WIN documente les interactions de jeu et de commentaire afin de produire à la fois des connaissances scientifiques et des supports pédagogiques.
 :::
 
 ::: {#projet .feature-grid}
@@ -41,7 +41,7 @@ Speak2Win documente les interactions de jeu et de commentaire afin de produire �
 - Développer des ressources pédagogiques proposées dans des formations non esportives.
 :::
 
-<p class="poster-note">Les compétences visées incluent l'organisation d'équipe, la transmission d'information et la formulation de directives en français ou en LV2.</p>
+<p class="poster-note">Les compétences visées incluent l'organisation d'équipe, la transmission d'information et la formulation de directives en français ou dans une autre langue.</p>
 :::
 
 ::: {.poster-card}
@@ -55,7 +55,6 @@ Speak2Win documente les interactions de jeu et de commentaire afin de produire �
 - Vidéos YouTube et streams Twitch.
 - Enregistrements audio, vidéo et images du jeu effectués par nos soins.
 - Transcription, alignement audio, annotation des images du jeu et annotation de phénomènes linguistiques.
-- Analyses qualitatives et quantitatives.
 :::
 
 <p class="poster-note">Principaux esports ciblés : <span class="poster-tags">League of Legends, Valorant, Fortnite</span>.</p>
@@ -86,7 +85,7 @@ Speak2Win documente les interactions de jeu et de commentaire afin de produire �
 ::: {.spotlight-card}
 ### Pour la recherche
 
-Speak2Win documente un terrain encore peu couvert par les sciences du langage et produit un modèle d'analyse transférable à plusieurs jeux et formats de diffusion.
+SPEAK2WIN documente un terrain encore peu couvert par les sciences du langage et produit un modèle d'analyse transférable à plusieurs jeux et formats de diffusion.
 :::
 
 ::: {.spotlight-card}
@@ -125,7 +124,7 @@ Les résultats pourront être réemployés dans des formations en droit, gestion
 Retrouvez le poster expliquant notre démarche. Le document est disponible au téléchargement.
 :::
 
-![](poster-apercu.jpg){.poster-image alt="Aperçu du poster scientifique Speak2Win"}
+![](poster-apercu.jpg){.poster-image alt="Aperçu du poster scientifique SPEAK2WIN"}
 :::
 
 ::: {.hero-actions}

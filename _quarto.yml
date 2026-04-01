@@ -9,7 +9,7 @@ project:
 lang: fr
 
 website:
-  title: "Speak2Win"
+  title: "SPEAK2WIN"
   navbar:
     left:
       - href: index.qmd
@@ -17,12 +17,12 @@ website:
       - href: about.qmd
         text: Projet
       - href: formulaire.qmd
-        text: Formulaire
+        text: Pour participer
     right:
       - href: "Poster scientifique.pdf"
         text: Poster PDF
   page-footer:
-    left: "Speak2Win | Discours de l'esport, documentation et pédagogie"
+    left: "SPEAK2WIN | Discours de l'esport, documentation et pédagogie"
     center: |
       <div class="footer-logos" aria-label="Partenaires institutionnels">
         <img src="icons/logoUP.png" class="footer-logo footer-logo-up" alt="Logo Université de Poitiers">
