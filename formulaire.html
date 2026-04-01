@@ -157,7 +157,7 @@ Participer
 <div class="section-heading">
 Questionnaire de participation
 </div>
-<p>Le questionnaire de participation est accessible via LimeSurvey. Il s’ouvre directement dans un nouvel onglet pour garantir une expérience stable sur mobile comme sur ordinateur.</p>
+<p>Le questionnaire de participation est accessible via LimeSurvey.</p>
 <div class="form-launch-panel">
 <div class="form-launch-card">
 <p class="form-launch-lead">
@@ -280,7 +280,7 @@ Le lien ouvre directement l’enquête LimeSurvey de contact dans un nouvel ongl
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/Hsbtqemy\.github\.io\/S2W\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

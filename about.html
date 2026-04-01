@@ -150,7 +150,7 @@ Le projet
 </div>
 <section id="speak2win-en-détail" class="level1">
 <h1>Speak2Win en détail</h1>
-<p>Speak2Win documente les interactions de jeu et de commentaire afin de produire à la fois des connaissances scientifiques et des supports pédagogiques. Cette page regroupe la présentation complète du projet.</p>
+<p>Speak2Win documente les interactions de jeu et de commentaire afin de produire à la fois des connaissances scientifiques et des supports pédagogiques.</p>
 </section>
 </div>
 <div id="projet" class="feature-grid">
@@ -211,7 +211,6 @@ Sources et traitements
 <li>Vidéos YouTube et streams Twitch.</li>
 <li>Enregistrements audio, vidéo et images du jeu effectués par nos soins.</li>
 <li>Transcription, alignement audio, annotation des images du jeu et annotation de phénomènes linguistiques.</li>
-<li>Analyses qualitatives et quantitatives.</li>
 </ul>
 </div>
 <p class="poster-note">
@@ -421,7 +420,7 @@ Vous êtes joueur.se et vous souhaitez nous aider ?
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/Hsbtqemy\.github\.io\/S2W\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
