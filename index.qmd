@@ -66,5 +66,4 @@ Laissez vos coordonnées pour qu'on puisse vous recontacter si le projet vous in
 
 Speak2Win étudie les discours de l'esport afin de produire à la fois des connaissances en sciences du langage et des ressources de formation réutilisables dans des contextes pédagogiques variés.
 
-Cette page d'accueil sert d'accès rapide aux quatre entrées principales du site : le projet, le questionnaire de participation, le formulaire de contact et le poster scientifique.
 :::

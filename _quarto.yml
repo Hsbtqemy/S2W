@@ -3,6 +3,8 @@ project:
   resources:
     - "Poster scientifique.pdf"
     - poster-apercu.jpg
+    - icons/logoUP.png
+    - icons/Logo_Forellis_Transparent.png
 
 lang: fr
 
@@ -21,6 +23,11 @@ website:
         text: Poster PDF
   page-footer:
     left: "Speak2Win | Discours de l'esport, documentation et pédagogie"
+    center: |
+      <div class="footer-logos" aria-label="Partenaires institutionnels">
+        <img src="icons/logoUP.png" class="footer-logo footer-logo-up" alt="Logo Université de Poitiers">
+        <img src="icons/Logo_Forellis_Transparent.png" class="footer-logo footer-logo-forellis" alt="Logo FoReLLIS">
+      </div>
     right: "Gamers Assembly 2026"
 
 format:

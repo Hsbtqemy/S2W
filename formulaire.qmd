@@ -8,7 +8,7 @@ title: "Formulaire"
 
 # Contribuer à l'étude Speak2Win
 
-Vous souhaitez nous aider en participant à une collecte de données, en répondant à une enquête ou en relayant le projet. Les formulaires Speak2Win s'ouvrent dans un nouvel onglet afin d'éviter les problèmes d'affichage sur mobile comme sur ordinateur.
+Vous souhaitez nous aider en participant à une collecte de données, en répondant à une enquête ou en relayant le projet.
 :::
 
 ::: {#participer-formulaire .wide-panel}
@@ -38,7 +38,7 @@ Si besoin, vous pouvez aussi [ouvrir directement le questionnaire LimeSurvey](ht
 ::: {#contacter-equipe .wide-panel}
 <div class="section-heading">Laisser mon contact</div>
 
-Si vous souhaitez laisser vos corrdonnées pour qu'on puisse vous recontacter, vous pouvez utiliser le formulaire de contact ci-dessous.
+Si vous souhaitez laisser vos coordonnées pour qu'on puisse vous recontacter, vous pouvez utiliser le formulaire de contact ci-dessous.
 
 ::: {.form-launch-panel}
 ::: {.form-launch-card}
