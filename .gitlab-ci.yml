@@ -1,0 +1,12 @@
+deploy-pages:
+  stage: deploy
+  image: ghcr.io/quarto-dev/quarto:latest
+  script:
+    - quarto render
+    - mv _site public
+  artifacts:
+    paths:
+      - public
+  pages: true
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
